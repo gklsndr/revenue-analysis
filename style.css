@@ -10,7 +10,7 @@
   border-radius: 12px;
 }
 .MuiOutlinedInput-root {
-  color: white;
+  color: white !important;
   border: 1px solid white;
 }
 .MuiSelect-icon {
